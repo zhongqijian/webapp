@@ -6,7 +6,7 @@
     <groupId>zttc.itat.user</groupId>
     <artifactId>user-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <relativePath>../user-parent/pom.xml</relativePath>
+    <!--relativePath>../user-parent/pom.xml</relativePath-->
   </parent>
   <artifactId>user-web</artifactId>
   <packaging>war</packaging>
